@@ -1,0 +1,8 @@
+git+https://github.com/wcmc-research-informatics/kickshaws
+git+https://github.com/wcmc-research-informatics/metaphor
+watchdog==0.9.0
+pymssql==2.1.3
+chardet==3.0.4
+python-dateutil==2.6.1  
+pytz==2017.3 
+
